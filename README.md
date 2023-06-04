@@ -31,7 +31,7 @@ OKPasswordBook（OK密码本）仓库
 #### 参与贡献
 
 1.  主开发者：kongqikill(kongqig)
-2.  远程更新开发/维护者，YD文件选择器开发者，仓库管理者：yuandream
+2.  远程更新开发/维护者，文件选择器开发者，仓库管理者：yuandream
 
 
 #### 特技
